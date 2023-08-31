@@ -1,10 +1,10 @@
 
-# Hello Python
+# Lab 2
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)  
 
 ## About
-This is a project that will test some of my knowledge in Python, there are some simple exercises in here.
+This is a project that will create classes and compare the traditional class with a dataclass.
 
 ### Table of Contents
  * [About](#About)
